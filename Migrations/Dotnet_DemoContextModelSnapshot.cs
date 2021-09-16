@@ -15,6 +15,22 @@ namespace Dotnet_Demo.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "5.0.9");
 
+            modelBuilder.Entity("Dotnet_Demo.Models.Employee", b =>
+                {
+                    b.Property<string>("EmployeeID")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("EmployeeName")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("EmployeeYear")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("EmployeeID");
+
+                    b.ToTable("Employee");
+                });
+
             modelBuilder.Entity("Dotnet_Demo.Models.Movie", b =>
                 {
                     b.Property<int>("ID")

@@ -17,4 +17,6 @@ using Dotnet_Demo.Models;
         public DbSet<Dotnet_Demo.Models.Student> Student { get; set; }
 
         public DbSet<Dotnet_Demo.Models.Person> Person { get; set; }
+
+        public DbSet<Dotnet_Demo.Models.Employee> Employee { get; set; }
     }
