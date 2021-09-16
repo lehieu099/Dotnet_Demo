@@ -15,4 +15,6 @@ using Dotnet_Demo.Models;
         public DbSet<Dotnet_Demo.Models.Movie> Movie { get; set; }
 
         public DbSet<Dotnet_Demo.Models.Student> Student { get; set; }
+
+        public DbSet<Dotnet_Demo.Models.Person> Person { get; set; }
     }

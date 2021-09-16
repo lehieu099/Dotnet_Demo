@@ -41,6 +41,19 @@ namespace Dotnet_Demo.Migrations
                     b.ToTable("Movie");
                 });
 
+            modelBuilder.Entity("Dotnet_Demo.Models.Person", b =>
+                {
+                    b.Property<string>("PersonID")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("PersonName")
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("PersonID");
+
+                    b.ToTable("Person");
+                });
+
             modelBuilder.Entity("Dotnet_Demo.Models.Student", b =>
                 {
                     b.Property<string>("ID")

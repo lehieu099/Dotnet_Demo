@@ -175,3 +175,8 @@ C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Student\Delete.csht
 C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Student\Details.cshtml.g.cs
 C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Student\Edit.cshtml.g.cs
 C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Student\Index.cshtml.g.cs
+C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Persons\Create.cshtml.g.cs
+C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Persons\Delete.cshtml.g.cs
+C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Persons\Details.cshtml.g.cs
+C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Persons\Edit.cshtml.g.cs
+C:\Users\duyhi\net2\Dotnet_Demo\obj\Debug\net5.0\Razor\Pages\Persons\Index.cshtml.g.cs
