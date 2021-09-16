@@ -2,14 +2,16 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Dotnet_Demo.Migrations
 {
     [DbContext(typeof(Dotnet_DemoContext))]
-    partial class Dotnet_DemoContextModelSnapshot : ModelSnapshot
+    [Migration("20210916043933_Lecture")]
+    partial class Lecture
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
