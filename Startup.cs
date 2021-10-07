@@ -27,6 +27,7 @@ namespace Dotnet_Demo
         {
           if (Environment.IsDevelopment())
             {
+                services.AddRazorPages();
                 services.AddDbContext<Dotnet_DemoContext>(options =>
                 options.UseSqlite(
                     Configuration.GetConnectionString("Dotnet_DemoContext")));

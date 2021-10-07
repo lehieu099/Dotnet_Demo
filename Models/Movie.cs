@@ -18,7 +18,7 @@ namespace Dotnet_Demo.Models{
         public string Genre { get; set; }
 
         [Column(TypeName = "decimal(18, 2)")]
-        [Range(0, 500000), DataType(DataType.Currency)]
+        [Range(0, 100), DataType(DataType.Currency)]
         public decimal Price { get; set; }
 
         [RegularExpression(@"^[A-Z]+[a-zA-Z0-9""'\s-]*$"), StringLength(5)]

@@ -15624,8 +15624,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Movies\\Create.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Movies\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Student\\Index.cshtml",
       "TargetPath": "Pages\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Persons\\Delete.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Persons\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Students\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15634,8 +15659,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Persons\\Edit.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Persons\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Employees\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Employees\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Lectures\\Edit.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Lectures\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Employees\\Delete.cshtml",
       "TargetPath": "Pages\\Employees\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Lectures\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Lectures\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Students\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,6 +15699,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Persons\\Create.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Persons\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Employees\\Details.cshtml",
       "TargetPath": "Pages\\Employees\\Details.cshtml",
       "FileKind": "mvc"
@@ -15659,13 +15714,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Lectures\\Details.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Lectures\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Persons\\Details.cshtml",
       "TargetPath": "Pages\\Persons\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Privacy.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Employees\\Edit.cshtml",
       "TargetPath": "Pages\\Employees\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Students\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15704,6 +15774,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Students\\Details.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Persons\\Index.cshtml",
       "TargetPath": "Pages\\Persons\\Index.cshtml",
       "FileKind": "mvc"
@@ -15714,8 +15794,43 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Employees\\Details.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Employees\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Students\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Luctures\\Index.cshtml",
       "TargetPath": "Pages\\Luctures\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Lectures\\Create.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Lectures\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Employees\\Create.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Employees\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Error.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Movies\\Delete.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Lectures\\Delete.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Lectures\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15729,6 +15844,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Persons\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Persons\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Persons\\Details.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Persons\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Employees\\Index.cshtml",
       "TargetPath": "Pages\\Employees\\Index.cshtml",
       "FileKind": "mvc"
@@ -15739,8 +15864,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Index.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Employees\\Edit.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Employees\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Movies\\Edit.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15751,6 +15896,11 @@
     {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Student\\Details.cshtml",
       "TargetPath": "Pages\\Student\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Movies\\Details.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Movies\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15771,6 +15921,16 @@
     {
       "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\Pages\\Employees\\Create.cshtml",
       "TargetPath": "Pages\\Employees\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\duyhi\\net2\\Dotnet_Demo\\RazorDemo\\Pages\\Employees\\Delete.cshtml",
+      "TargetPath": "RazorDemo\\Pages\\Employees\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
